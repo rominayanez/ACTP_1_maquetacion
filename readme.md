@@ -1,34 +1,44 @@
 # Maquetación - Front End B-learning
 
 ## Pre-maquetado de página Tía Tomate
+
 Listado de requerimientos visuales y de contenido
-    Página web responsiva
-    6 secciones
-        1era sección: barra de navegación.
-        2era sección: Header
-        3era sección: blog, mostrando imágenes de la procedencia de sus productos, dos columnas.
-        4ta sección: Nosotros, con información de las dos personas que trabajan en el lugar, dos columnas
-        5ta sección: para comprar o hacer pedido
-        6ta sección: footer
+    Contenido
+        La empresa productora de tomates orgánicos llamada Tía Tomate solicita
+        la maqueta de la página "acerca de" mostrando a sus clientes una pequeña reseña sobre su historia, la procedencia de sus productos y mostrar a las personas que trabajan cosechando estas verduras. Mostrar la pasión que sienten por sus tomates y
+        dar enfásis a la compra de sus productos
 
     Visuales
-        Layout: usar bootstrap
-        Colores: #E56353 #686963 #707070 #FAFAFA #FFFFFF
-        Fuentes (Google Fonts)
-            Títulos: Raleway-Bold.trf
-            Header: Raleway-ExtraLight.trf
-            Párrafos: OpenSans-Regular.trf
+        Página web responsiva
+        6 secciones
+            1era sección: barra de navegación.
+            2era sección: Header
+            3era sección: blog, mostrando imágenes de la procedencia de sus productos, dos columnas.
+            4ta sección: Nosotros, con información de las dos personas que trabajan en el lugar, dos columnas
+            5ta sección: para comprar o hacer pedido
+            6ta sección: footer
 
-        Colores
-            background header, banner nosotros, sección pedido: #E56353
-            letras #707070 #FAFAFA
-            background footer #686963
+            Layout: usar bootstrap
+            Colores: #E56353 #686963 #707070 #FAFAFA #FFFFFF
+            Fuentes (Google Fonts)
+                Títulos: Raleway-Bold.trf
+                Header: Raleway-ExtraLight.trf
+                Párrafos: OpenSans-Regular.trf
 
-        Imágenes se encuentran dentro de la carpeta entregada.
-            logo TiaTomate
-            imágenes tomates
-            icono tomates
-            imágenes personas
+            Colores
+                background header, banner nosotros, sección pedido: #E56353
+                letras #707070 #FAFAFA
+                background footer #686963
+
+            Imágenes se encuentran dentro de la carpeta entregada.
+                logo TiaTomate
+                imágenes tomates
+                icono tomates
+                imágenes personas
+
+Link: https://wireframe.cc/ylj8e2 (desktop y movil)
+
+
 
 
 ### Instrucciones:
