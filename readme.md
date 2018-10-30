@@ -1,9 +1,37 @@
 # Maquetación - Front End B-learning
 
 ## Pre-maquetado de página Tía Tomate
+Listado de requerimientos visuales y de contenido
+    Página web responsiva
+    6 secciones
+        1era sección: barra de navegación.
+        2era sección: Header
+        3era sección: blog, mostrando imágenes de la procedencia de sus productos, dos columnas.
+        4ta sección: Nosotros, con información de las dos personas que trabajan en el lugar, dos columnas
+        5ta sección: para comprar o hacer pedido
+        6ta sección: footer
 
-### Instrucciones: 
+    Visuales
+        Layout: usar bootstrap
+        Colores: #E56353 #686963 #707070 #FAFAFA #FFFFFF
+        Fuentes (Google Fonts)
+            Títulos: Raleway-Bold.trf
+            Header: Raleway-ExtraLight.trf
+            Párrafos: OpenSans-Regular.trf
 
+        Colores
+            background header, banner nosotros, sección pedido: #E56353
+            letras #707070 #FAFAFA
+            background footer #686963
+
+        Imágenes se encuentran dentro de la carpeta entregada.
+            logo TiaTomate
+            imágenes tomates
+            icono tomates
+            imágenes personas
+
+
+### Instrucciones:
 Aplicando todo los conceptos y herramientas aprendidas en la experiencia online de maquetación, planifica la construcción de la página web de "Tía Tomate".
 
 Revisa el mockup [aquí](img/tiatomate-desktop.png).
@@ -23,7 +51,7 @@ Según sus requerimientos la página debe:
 
 El diseñador del mockup envío una [guía de estilos](img/tiatomate-guia-de-estilos.png) con las imágenes, colores y fuentes que usó para crear esta representación visual (puedes encontrar los assets en el siguiente [link](../assets)).
 
-Además, ellos comentan que crearán el contenido de su página web con la persona encargada de mantener sus redes sociales. 
+Además, ellos comentan que crearán el contenido de su página web con la persona encargada de mantener sus redes sociales.
 
 ### Requsitos generales:
 
@@ -45,7 +73,7 @@ Luego de terminar, documenta todo el proceso que hiciste dentro de un **README.m
 - Una descripción de las secciones, layout, estructura HTML y clases CSS que decidiste usar.
 
 Además debes agregar la estructura de directorio que hiciste, junto con las dependencias y otros archivos necesarios usados en el proyecto.
-  
+
 ### Criterios de evaluación:
 
 - Organización de los requerimientos
